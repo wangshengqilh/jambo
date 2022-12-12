@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Audiowide-Regular.ttf",
+      "sha1": "62146c161ca46836bfa519bde4575e46ffe191d2"
+    },
+    {
+      "path": "src/assets/fonts/Avenir-bold.ttf",
+      "sha1": "d814f090801c10e9e0653f005da04d409466748b"
+    },
+    {
+      "path": "src/assets/fonts/Avenir-Light.ttf",
+      "sha1": "5b123abfd180b29466b86f3e091d169572ecb664"
+    },
+    {
+      "path": "src/assets/fonts/Avenir-medium.ttf",
+      "sha1": "07a74a4b85b1fdc5629ba9711efa365b0301891d"
+    },
+    {
+      "path": "src/assets/fonts/Avenir-regular.ttf",
+      "sha1": "d8972fa7c14bdee070e2570966f5ab53e5ea31b5"
+    }
+  ]
+}
